@@ -6,6 +6,10 @@ Oct-tree routine for PCL coding (color)
 This repository contains the sources (C and Matlab) to implement a simple lossy color coder for dyniamic pointclouds
 based on Octree decomposition and RAHT (Microsoft) and to evaluate Rate Distortion and Computational performances.
 
+Thesis.pdf file contains some theoretical background, the state-of-art in 3D model compression, our implementation in detail and the results obtained.
+
+slides.pdf its a short presentation of the work we have done.
+
 The core of the coder is implemented in C while the preprocessing procedure is performed using Matlab.
 
 PROCEDURE:
